@@ -1,4 +1,6 @@
+# main.py dosyasındaki hatalı kodu düzeltelim
+
 def greet():
-    print("Hello from Git Flow feature branch!")
+    print("Hello, world!")  # Buradaki girintileme hatasını düzeltiyoruz
 
 greet()
